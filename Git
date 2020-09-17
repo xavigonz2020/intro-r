@@ -14,3 +14,4 @@ insertar para editar
 escape wq para salir
 git remote add origin link
 git push -u origin master
+git clone link
