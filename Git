@@ -1,0 +1,16 @@
+Primeros pasos en el uso de Git
+Luego de descargar el instalador 
+Procedimos con la instalacion del programa Git : dejando todas las opciones por defecto.
+1. Creacion de un repositorio local
+Ejecutar el git bash
+git config --global user.name "Tu Nombre"
+git config --global user.email "Tucorreo@tucorreo.com"
+Inicializacion de nuestro repositorio local
+git init
+git add. carga todos los archivos que estan en ese directorio de trabajo    
+git status estado de los archivos
+git commit -a 
+insertar para editar
+escape wq para salir
+git remote add origin link
+git push -u origin master
